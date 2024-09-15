@@ -1,6 +1,6 @@
-# Solana Network Analysis
+# Network Analysis
 
-This project contains IPython Notebook files for analyzing various aspects of the Solana network, including validator counts, block times, and staking yields.
+This project contains IPython Notebook files for analyzing various aspects of the Solana network. It also contains notebook for analyzing top 20 L1/L2 chains.
 
 ## Prerequisites
 
